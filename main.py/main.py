@@ -1,7 +1,7 @@
-#starting the game
+#introduction
 print("Fill out all of the spaces.")
 
-# Variables
+#Variables
 You = input("Your name is ")
 Animal= input("Animal name : ")
 Profession = input("Profession name ")
@@ -14,9 +14,9 @@ Emotion = input("Emotion name ")
 Verb2 = input("Verb name ")
     
     
+#starting the game
 
-
-print(f"One day {You} slapped a {Animal} in {Place} after going home from your work as {Profession}")
-print(f" your {Vehichle}. But then suddenly a {Noun} decided to {Verb} and smashed your {Vehichle}.")
-print(f"This made your friend the {Noun2} feel {Emotion} and he decided to {Verb2}")
+print(f"One day {You} slapped some {Animal}s in {Place} after going home from your work as {Profession}")
+print(f"riding his {Vehichle}. But then suddenly a {Noun} got mad and decided to {Verb} at him and smashed his {Vehichle}.")
+print(f"This made his friend the {Noun2} feel {Emotion} and he decided to {Verb2} and charged at the {Noun}")
     
